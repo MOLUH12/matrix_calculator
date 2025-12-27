@@ -18,5 +18,5 @@ def main() -> None:
 
 
 # Exécution du programme
-if __name__ == "__main__":
+if __name__ == "__main__":# Cette ligne de code indique que le programe s'executera uniquement si on se trouve dans ce fichier
     main()
